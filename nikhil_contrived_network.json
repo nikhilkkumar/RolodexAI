@@ -1,6 +1,6 @@
 [
     {
-        "name": "Daniel Allen",
+        "name": "Justin Ding",
         "howWeMet": "Met at the annual SaaStr conference",
         "description": "Partner at a VC firm with a focus on deep tech and enterprise solutions.",
         "tags": [
@@ -14,7 +14,7 @@
         "skill": 5
     },
     {
-        "name": "David Johnson",
+        "name": "Sai Nayan",
         "howWeMet": "Introduced by a former colleague in the VC industry",
         "description": "Investor with a focus on healthtech, SaaS, and AI-driven solutions for the enterprise.",
         "tags": [
@@ -28,46 +28,28 @@
         "skill": 5
     },
     {
-        "name": "Chris Evans",
-        "howWeMet": "Met at the annual SaaStr conference",
-        "description": "Product Lead at a major tech company, focusing on enterprise collaboration tools.",
-        "tags": [
-            "Logistics",
-            "Supply Chain",
-            "Founder",
-            "Series A",
-            "Startup"
-        ],
-        "trust": 4,
-        "skill": 1
-    },
-    {
-        "name": "Logan Hayes",
-        "howWeMet": "Worked together on a joint project for a SaaS company",
-        "description": "Founder of a fintech platform aiming to disrupt the traditional banking industry.",
-        "tags": [
-            "Product",
-            "Unicorn",
-            "Advisor",
-            "Seed Funding",
-            "Startup"
-        ],
-        "trust": 2,
+        "name": "Cameron Lee",
+        "howWeMet": "Product Hunt launch party",
+        "description": "UX/UI designer turned founder. His design tool startup is changing how product teams collaborate on user interfaces.",
+        "tags": ["Design", "Collaboration Tools", "Founder", "Product Hunt"],
+        "trust": 3,
         "skill": 4
     },
     {
-        "name": "Jackson Bailey",
-        "howWeMet": "Met at the annual SaaStr conference",
-        "description": "Product Lead at a major tech company, focusing on enterprise collaboration tools.",
-        "tags": [
-            "Healthtech",
-            "AI",
-            "Founder",
-            "Diagnostics",
-            "Startup"
-        ],
+        "name": "Isabella Rossi",
+        "howWeMet": "TED Talk on quantum computing",
+        "description": "Quantum computing researcher turned startup founder. Her company is developing quantum algorithms for drug discovery.",
+        "tags": ["Quantum Computing", "Biotech", "Deep Tech", "Founder"],
         "trust": 4,
-        "skill": 3
+        "skill": 5
+    },
+    {
+        "name": "Jamal Williams",
+        "howWeMet": "Black Founders Network event",
+        "description": "Venture Partner at Lightspeed Venture Partners. Focused on investing in underrepresented founders in enterprise software.",
+        "tags": ["VC", "Enterprise Software", "Diversity in Tech", "Investor"],
+        "trust": 4,
+        "skill": 4
     },
     {
         "name": "Penelope Gonzalez",

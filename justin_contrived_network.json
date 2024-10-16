@@ -1,6 +1,6 @@
 [
     {
-      "name": "Joe Smith",
+      "name": "Nikhil Kumar",
       "howWeMet": "Met at Mercury Founders Event",
       "description": "Founder working on solving late invoices between franchises and franchisees. He recently raised his pre-seed round.",
       "tags": ["Fintech", "Startup", "Founder", "VC Funding"],
@@ -8,7 +8,7 @@
       "skill": 3
     },
     {
-      "name": "Emma Chen",
+      "name": "Sai Nayan",
       "howWeMet": "Introduced by mutual connection at TechCrunch Disrupt",
       "description": "Senior Product Manager at Google, focusing on AI/ML initiatives. Mentor for early-stage startups in her spare time.",
       "tags": ["Big Tech", "Product Management", "AI/ML", "Mentor"],

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Jackson Bailey",
+        "name": "Justin Ding",
         "howWeMet": "Connected at a Growth Hacking Meetup",
         "description": "Product Lead at a major tech company, focusing on enterprise collaboration tools.",
         "tags": [
@@ -14,7 +14,7 @@
         "skill": 3
     },
     {
-        "name": "Aiden Reed",
+        "name": "Sai Nayan",
         "howWeMet": "Met at an industry networking event hosted by YC",
         "description": "Partner at a top VC firm with a focus on fintech startups and early-stage investments.",
         "tags": [
@@ -28,47 +28,29 @@
         "skill": 5
     },
     {
-        "name": "Bella Cooper",
-        "howWeMet": "Introduced by a mutual friend during a VC panel at TechCrunch Disrupt",
-        "description": "COO of a B2B marketplace for small businesses, recently led the company through a successful Series A.",
-        "tags": [
-            "Fintech",
-            "Growth",
-            "B2C",
-            "Scaling",
-            "Series A"
-        ],
-        "trust": 2,
-        "skill": 3
-    },
-    {
-        "name": "Abigail Peterson",
-        "howWeMet": "Introduced by a former colleague in the VC industry",
-        "description": "Founder and CEO of a rapidly growing B2B SaaS platform. Recently closed a Series B round led by Sequoia.",
-        "tags": [
-            "Revenue",
-            "Sales",
-            "B2B",
-            "SaaS",
-            "Growth"
-        ],
-        "trust": 2,
-        "skill": 2
-    },
-    {
-        "name": "Riley Clark",
-        "howWeMet": "Introduced by a mutual friend during a VC panel at TechCrunch Disrupt",
-        "description": "VP of Business Development at a fast-growing startup in the edtech space.",
-        "tags": [
-            "Product",
-            "Enterprise",
-            "Collaboration Tools",
-            "Tech",
-            "Growth"
-        ],
+        "name": "Cameron Lee",
+        "howWeMet": "Product Hunt launch party",
+        "description": "UX/UI designer turned founder. His design tool startup is changing how product teams collaborate on user interfaces.",
+        "tags": ["Design", "Collaboration Tools", "Founder", "Product Hunt"],
         "trust": 3,
         "skill": 4
-    },
+      },
+      {
+        "name": "Isabella Rossi",
+        "howWeMet": "TED Talk on quantum computing",
+        "description": "Quantum computing researcher turned startup founder. Her company is developing quantum algorithms for drug discovery.",
+        "tags": ["Quantum Computing", "Biotech", "Deep Tech", "Founder"],
+        "trust": 4,
+        "skill": 5
+      },
+      {
+        "name": "Jamal Williams",
+        "howWeMet": "Black Founders Network event",
+        "description": "Venture Partner at Lightspeed Venture Partners. Focused on investing in underrepresented founders in enterprise software.",
+        "tags": ["VC", "Enterprise Software", "Diversity in Tech", "Investor"],
+        "trust": 4,
+        "skill": 4
+      },
     {
         "name": "Savannah Thompson",
         "howWeMet": "Met during an accelerator program",
