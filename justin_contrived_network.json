@@ -1,0 +1,390 @@
+[
+    {
+      "name": "Joe Smith",
+      "howWeMet": "Met at Mercury Founders Event",
+      "description": "Founder working on solving late invoices between franchises and franchisees. He recently raised his pre-seed round.",
+      "tags": ["Fintech", "Startup", "Founder", "VC Funding"],
+      "trust": 4,
+      "skill": 3
+    },
+    {
+      "name": "Emma Chen",
+      "howWeMet": "Introduced by mutual connection at TechCrunch Disrupt",
+      "description": "Senior Product Manager at Google, focusing on AI/ML initiatives. Mentor for early-stage startups in her spare time.",
+      "tags": ["Big Tech", "Product Management", "AI/ML", "Mentor"],
+      "trust": 5,
+      "skill": 4
+    },
+    {
+      "name": "Raj Patel",
+      "howWeMet": "Connected on LinkedIn after his viral thread on SaaS metrics",
+      "description": "Founder and CEO of a rapidly growing B2B SaaS platform. Recently closed a Series B round led by Sequoia.",
+      "tags": ["SaaS", "B2B", "Founder", "Startup", "VC Funding"],
+      "trust": 3,
+      "skill": 5
+    },
+    {
+      "name": "Sarah Johnson",
+      "howWeMet": "Panel speaker at Women in Tech conference",
+      "description": "Partner at Andreessen Horowitz, focusing on enterprise software investments. Former CTO of a unicorn startup.",
+      "tags": ["VC", "Enterprise Software", "Women in Tech", "Engineering"],
+      "trust": 4,
+      "skill": 5
+    },
+    {
+      "name": "Alex Rodriguez",
+      "howWeMet": "Startup Weekend hackathon",
+      "description": "Early employee (Engineer #5) at Stripe. Currently angel investing in developer tools and infrastructure startups.",
+      "tags": ["Angel Investor", "Developer Tools", "Infrastructure", "Early Employee"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Lila Nguyen",
+      "howWeMet": "Y Combinator Demo Day",
+      "description": "Founder of an AI-powered edtech startup. Her company is revolutionizing personalized learning for K-12 students.",
+      "tags": ["Edtech", "AI", "Founder", "Y Combinator"],
+      "trust": 4,
+      "skill": 4
+    },
+    {
+      "name": "Marcus Greene",
+      "howWeMet": "Blockchain and Web3 Meetup",
+      "description": "Ethereum core developer and crypto thought leader. Advises multiple DeFi projects.",
+      "tags": ["Blockchain", "Web3", "DeFi", "Technical Expert"],
+      "trust": 3,
+      "skill": 5
+    },
+    {
+      "name": "Olivia Taylor",
+      "howWeMet": "Guest lecturer at Stanford's CS department",
+      "description": "VP of Engineering at Airbnb. Known for scaling engineering teams and implementing robust DevOps practices.",
+      "tags": ["Big Tech", "Engineering Leadership", "DevOps", "Scaling"],
+      "trust": 5,
+      "skill": 5
+    },
+    {
+      "name": "Kenji Tanaka",
+      "howWeMet": "Introduced by a fellow YC alum",
+      "description": "Serial entrepreneur on his third startup. Current venture is in the climate tech space, focusing on carbon capture technology.",
+      "tags": ["Serial Entrepreneur", "Climate Tech", "Startup", "Sustainability"],
+      "trust": 4,
+      "skill": 4
+    },
+    {
+      "name": "Zoe Adams",
+      "howWeMet": "500 Startups accelerator program",
+      "description": "Growth marketing expert who has helped multiple startups achieve product-market fit. Now runs her own growth consulting firm.",
+      "tags": ["Growth Marketing", "Consultant", "Product-Market Fit", "Startup Advisor"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Hassan Ali",
+      "howWeMet": "AWS re:Invent conference",
+      "description": "Cloud architecture specialist and AWS Hero. Helps startups optimize their cloud infrastructure for scalability and cost-efficiency.",
+      "tags": ["Cloud Computing", "AWS", "Technical Expert", "Scalability"],
+      "trust": 4,
+      "skill": 5
+    },
+    {
+      "name": "Priya Sharma",
+      "howWeMet": "Startup Grind fireside chat",
+      "description": "Founder of a health tech startup using wearables and AI for early disease detection. Recently featured in Forbes 30 Under 30.",
+      "tags": ["Health Tech", "AI", "Wearables", "Founder", "Forbes 30 Under 30"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Dylan O'Brien",
+      "howWeMet": "AngelList Syndicate",
+      "description": "Angel investor with a portfolio of 50+ early-stage startups. Particularly interested in no-code tools and the creator economy.",
+      "tags": ["Angel Investor", "No-Code", "Creator Economy", "Early-Stage"],
+      "trust": 4,
+      "skill": 3
+    },
+    {
+      "name": "Fatima Al-Mansoori",
+      "howWeMet": "SXSW Interactive",
+      "description": "AI ethics researcher and consultant. Advises tech companies and governments on responsible AI development and implementation.",
+      "tags": ["AI Ethics", "Consultant", "Policy", "Thought Leader"],
+      "trust": 5,
+      "skill": 4
+    },
+    {
+      "name": "Cameron Lee",
+      "howWeMet": "Product Hunt launch party",
+      "description": "UX/UI designer turned founder. His design tool startup is changing how product teams collaborate on user interfaces.",
+      "tags": ["Design", "Collaboration Tools", "Founder", "Product Hunt"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Isabella Rossi",
+      "howWeMet": "TED Talk on quantum computing",
+      "description": "Quantum computing researcher turned startup founder. Her company is developing quantum algorithms for drug discovery.",
+      "tags": ["Quantum Computing", "Biotech", "Deep Tech", "Founder"],
+      "trust": 4,
+      "skill": 5
+    },
+    {
+      "name": "Jamal Williams",
+      "howWeMet": "Black Founders Network event",
+      "description": "Venture Partner at Lightspeed Venture Partners. Focused on investing in underrepresented founders in enterprise software.",
+      "tags": ["VC", "Enterprise Software", "Diversity in Tech", "Investor"],
+      "trust": 4,
+      "skill": 4
+    },
+    {
+      "name": "Elena Petrova",
+      "howWeMet": "Startup Battlefield competition judge",
+      "description": "Cybersecurity expert and founder of a zero-trust security startup. Former white hat hacker for major tech companies.",
+      "tags": ["Cybersecurity", "Zero-Trust", "Founder", "Technical Expert"],
+      "trust": 3,
+      "skill": 5
+    },
+    {
+      "name": "Noah Campbell",
+      "howWeMet": "Techstars Demo Day",
+      "description": "Founder of a vertical SaaS platform for the construction industry. Bootstrapped to $10M ARR before taking on outside investment.",
+      "tags": ["Vertical SaaS", "Construction Tech", "Bootstrapped", "Founder"],
+      "trust": 4,
+      "skill": 4
+    },
+    {
+      "name": "Aisha Bello",
+      "howWeMet": "African Tech Summit",
+      "description": "Fintech entrepreneur focusing on mobile payments and financial inclusion in emerging markets. Her startup operates in 5 African countries.",
+      "tags": ["Fintech", "Mobile Payments", "Emerging Markets", "Founder"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Sven Lindström",
+      "howWeMet": "Slush conference in Helsinki",
+      "description": "CTO of a leading European neobank. Pioneering the use of machine learning for personalized financial advice and fraud detection.",
+      "tags": ["Fintech", "Neobank", "Machine Learning", "CTO"],
+      "trust": 4,
+      "skill": 5
+    },
+    {
+      "name": "Yuki Tanaka",
+      "howWeMet": "Tokyo Developer Conference",
+      "description": "Open source contributor and creator of a popular JavaScript framework. Now working on developer productivity tools.",
+      "tags": ["Open Source", "JavaScript", "Developer Tools", "Technical Expert"],
+      "trust": 5,
+      "skill": 5
+    },
+    {
+      "name": "Gabriela Santos",
+      "howWeMet": "Latin American Startup Challenge",
+      "description": "Founder of an AgTech startup using drones and computer vision for crop monitoring. Expanding rapidly across South America.",
+      "tags": ["AgTech", "Drones", "Computer Vision", "Founder"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Leo Zhang",
+      "howWeMet": "Crypto and DeFi Symposium",
+      "description": "Blockchain architect and smart contract auditor. Advises multiple crypto projects on security and scalability.",
+      "tags": ["Blockchain", "Smart Contracts", "Security", "Technical Expert"],
+      "trust": 4,
+      "skill": 5
+    },
+    {
+      "name": "Maya Patel",
+      "howWeMet": "Sustainable Tech Expo",
+      "description": "Cleantech entrepreneur developing next-gen solar panel technology. Her startup recently partnered with a major energy company for large-scale deployment.",
+      "tags": ["Cleantech", "Solar Energy", "Founder", "Sustainability"],
+      "trust": 4,
+      "skill": 4
+    },
+    {
+      "name": "Axel Bergström",
+      "howWeMet": "Nordic Venture Capital Conference",
+      "description": "Managing Partner at a new climate tech focused VC fund. Looking to invest in startups tackling the climate crisis through technology.",
+      "tags": ["VC", "Climate Tech", "Sustainability", "Investor"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Sophie Dubois",
+      "howWeMet": "Le Web conference in Paris",
+      "description": "Product leader at Spotify, responsible for personalization and recommendation algorithms. Mentor for music tech startups.",
+      "tags": ["Big Tech", "Product Management", "Music Tech", "AI/ML"],
+      "trust": 4,
+      "skill": 5
+    },
+    {
+      "name": "Ravi Mehta",
+      "howWeMet": "IndUS Entrepreneurs (TiE) event",
+      "description": "Serial entrepreneur who has successfully exited three B2B SaaS startups. Now runs a startup studio focused on AI-first businesses.",
+      "tags": ["Serial Entrepreneur", "B2B SaaS", "AI", "Startup Studio"],
+      "trust": 5,
+      "skill": 5
+    },
+    {
+      "name": "Ingrid Olsen",
+      "howWeMet": "Women in VC networking dinner",
+      "description": "General Partner at a top-tier VC firm, focusing on Series A and B rounds for enterprise software and infrastructure startups.",
+      "tags": ["VC", "Enterprise Software", "Infrastructure", "Women in Tech"],
+      "trust": 4,
+      "skill": 4
+    },
+    {
+      "name": "Carlos Mendoza",
+      "howWeMet": "Latam Startups Conference",
+      "description": "Founder of a last-mile delivery startup using AI for route optimization. Rapidly expanding across major Latin American cities.",
+      "tags": ["Logistics", "AI", "Last-Mile Delivery", "Founder"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Ava Williams",
+      "howWeMet": "Techcrunch Disrupt Hackathon",
+      "description": "Full-stack developer turned low-code platform founder. Her startup is making web app development accessible to non-technical users.",
+      "tags": ["Low-Code", "Web Development", "Founder", "Developer Tools"],
+      "trust": 4,
+      "skill": 4
+    },
+    {
+      "name": "Dmitri Volkov",
+      "howWeMet": "AI for Good Summit",
+      "description": "AI researcher specializing in natural language processing. His work on multilingual models is being used for global crisis response.",
+      "tags": ["AI", "NLP", "Research", "Social Impact"],
+      "trust": 5,
+      "skill": 5
+    },
+    {
+      "name": "Naomi Chen",
+      "howWeMet": "Venture Deals online course",
+      "description": "Former investment banker now running an emerging manager VC fund. Focuses on pre-seed investments in underrepresented founders.",
+      "tags": ["VC", "Pre-Seed", "Diversity in Tech", "Investor"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Omar Al-Jabri",
+      "howWeMet": "GITEX Technology Week in Dubai",
+      "description": "Founder of a govtech startup streamlining public services through blockchain and AI. Working with several Middle Eastern governments.",
+      "tags": ["Govtech", "Blockchain", "AI", "Founder"],
+      "trust": 4,
+      "skill": 4
+    },
+    {
+      "name": "Lucia Fernandez",
+      "howWeMet": "Space Tech Expo",
+      "description": "Aerospace engineer and founder of a satellite data analytics startup. Providing insights for agriculture, urban planning, and disaster response.",
+      "tags": ["Space Tech", "Satellite Data", "Analytics", "Founder"],
+      "trust": 3,
+      "skill": 5
+    },
+    {
+      "name": "Tariq Ahmed",
+      "howWeMet": "Startup Genome ecosystem report launch",
+      "description": "Ecosystem builder and director of a government-backed startup incubator. Instrumental in developing his city's tech scene.",
+      "tags": ["Ecosystem Builder", "Incubator", "Government", "Mentor"],
+      "trust": 4,
+      "skill": 4
+    },
+    {
+      "name": "Samantha Lee",
+      "howWeMet": "VR/AR World Conference",
+      "description": "AR/VR developer creating immersive training solutions for healthcare professionals. Her startup recently closed a Series A round.",
+      "tags": ["AR/VR", "Healthtech", "Training", "Founder"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Matteo Bianchi",
+      "howWeMet": "European Innovation Council pitch competition",
+      "description": "Biotechnology entrepreneur developing lab-grown meat alternatives. His startup is at the forefront of sustainable food tech.",
+      "tags": ["Biotech", "Food Tech", "Sustainability", "Founder"],
+      "trust": 4,
+      "skill": 5
+    },
+    {
+      "name": "Zara Mahmood",
+      "howWeMet": "Muslim Founders Network meetup",
+      "description": "Fintech founder focusing on Sharia-compliant digital banking and investment platforms. Expanding from the UK to the Middle East.",
+      "tags": ["Fintech", "Islamic Finance", "Digital Banking", "Founder"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Felix Nguyen",
+      "howWeMet": "Robotic Process Automation (RPA) symposium",
+      "description": "Enterprise software veteran now leading an RPA startup. His company is automating back-office processes for Fortune 500 clients.",
+      "tags": ["RPA", "Enterprise Software", "Automation", "Founder"],
+      "trust": 4,
+      "skill": 5
+    },
+    {
+      "name": "Amelia Brooks",
+      "howWeMet": "Cyber Security Challenge competition",
+      "description": "Ethical hacker turned founder of a bug bounty platform. Her startup connects companies with a global network of security researchers.",
+      "tags": ["Cybersecurity", "Bug Bounty", "Founder", "Security"],
+      "trust": 3,
+      "skill": 5
+    },
+    {
+      "name": "Hiroshi Sato",
+      "howWeMet": "Wearable Tech Expo in Tokyo",
+      "description": "Hardware engineer developing next-gen health monitoring wearables. His startup's technology is being integrated into major smartwatch brands.",
+      "tags": ["Wearables", "Health Tech", "Hardware", "Founder"],
+      "trust": 4,
+      "skill": 4
+    },
+    {
+      "name": "Nadia Petrov",
+      "howWeMet": "International Conference on Machine Learning (ICML)",
+      "description": "Machine learning researcher specializing in reinforcement learning. Recently launched a startup applying RL to industrial process optimization.",
+      "tags": ["Machine Learning", "Reinforcement Learning", "Industrial Tech", "Founder"],
+      "trust": 5,
+      "skill": 5
+    },
+    {
+      "name": "Kwame Osei",
+      "howWeMet": "Africa Tech Summit",
+      "description": "Founder of a mobile-first digital bank targeting unbanked populations in West Africa. Rapidly growing user base across multiple countries.",
+      "tags": ["Fintech", "Mobile Banking", "Financial Inclusion", "Founder"],
+      "trust": 3,
+      "skill": 4
+    },
+    {
+      "name": "Astrid Johansen",
+      "howWeMet": "Nordic Game Conference",
+      "description": "Game developer and founder of an indie studio creating educational AR games. Her games are being adopted by schools across Scandinavia.",
+      "tags": ["Gaming", "AR", "Edtech", "Founder"]
+    },
+    {
+      "name": "Diego Morales",
+      "howWeMet": "TechStars IoT accelerator demo day",
+      "description": "Founder of an industrial IoT startup optimizing manufacturing processes. His company's sensors and analytics platform are reducing waste and energy consumption in factories.",
+      "tags": ["IoT", "Manufacturing", "Sustainability", "Founder"]
+    },
+    {
+      "name": "Leila Karim",
+      "howWeMet": "Women in AI Ethics panel discussion",
+      "description": "AI ethics researcher and policy advisor. She's working on developing frameworks for responsible AI deployment in healthcare and finance.",
+      "tags": ["AI Ethics", "Policy", "Healthcare", "Finance"]
+    },
+    {
+      "name": "Victor Cheng",
+      "howWeMet": "Quantum Computing Hackathon",
+      "description": "Quantum physicist turned entrepreneur. His startup is developing quantum algorithms for complex financial modeling and risk assessment.",
+      "tags": ["Quantum Computing", "Fintech", "Deep Tech", "Founder"]
+    },
+    {
+      "name": "Sophia Rossi",
+      "howWeMet": "Startup Weekend Sustainability Edition",
+      "description": "Environmental scientist and founder of a circular economy marketplace. Her platform connects businesses to repurpose and recycle industrial waste.",
+      "tags": ["Circular Economy", "Sustainability", "B2B Marketplace", "Founder"]
+    },
+    {
+      "name": "Raj Kapoor",
+      "howWeMet": "Vidcon content creator summit",
+      "description": "Serial entrepreneur now building a creator economy platform. His startup provides tools for content creators to monetize their audiences across multiple platforms.",
+      "tags": ["Creator Economy", "Social Media", "Monetization", "Founder"]
+    }
+]

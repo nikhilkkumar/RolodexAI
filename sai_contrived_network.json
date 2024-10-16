@@ -1,0 +1,702 @@
+[
+    {
+        "name": "Jackson Bailey",
+        "howWeMet": "Connected at a Growth Hacking Meetup",
+        "description": "Product Lead at a major tech company, focusing on enterprise collaboration tools.",
+        "tags": [
+            "Fintech",
+            "Growth",
+            "B2C",
+            "Scaling",
+            "Series A"
+        ],
+        "trust": 1,
+        "skill": 3
+    },
+    {
+        "name": "Aiden Reed",
+        "howWeMet": "Met at an industry networking event hosted by YC",
+        "description": "Partner at a top VC firm with a focus on fintech startups and early-stage investments.",
+        "tags": [
+            "AI",
+            "Machine Learning",
+            "Healthcare",
+            "CTO",
+            "Startup"
+        ],
+        "trust": 4,
+        "skill": 5
+    },
+    {
+        "name": "Bella Cooper",
+        "howWeMet": "Introduced by a mutual friend during a VC panel at TechCrunch Disrupt",
+        "description": "COO of a B2B marketplace for small businesses, recently led the company through a successful Series A.",
+        "tags": [
+            "Fintech",
+            "Growth",
+            "B2C",
+            "Scaling",
+            "Series A"
+        ],
+        "trust": 2,
+        "skill": 3
+    },
+    {
+        "name": "Abigail Peterson",
+        "howWeMet": "Introduced by a former colleague in the VC industry",
+        "description": "Founder and CEO of a rapidly growing B2B SaaS platform. Recently closed a Series B round led by Sequoia.",
+        "tags": [
+            "Revenue",
+            "Sales",
+            "B2B",
+            "SaaS",
+            "Growth"
+        ],
+        "trust": 2,
+        "skill": 2
+    },
+    {
+        "name": "Riley Clark",
+        "howWeMet": "Introduced by a mutual friend during a VC panel at TechCrunch Disrupt",
+        "description": "VP of Business Development at a fast-growing startup in the edtech space.",
+        "tags": [
+            "Product",
+            "Enterprise",
+            "Collaboration Tools",
+            "Tech",
+            "Growth"
+        ],
+        "trust": 3,
+        "skill": 4
+    },
+    {
+        "name": "Savannah Thompson",
+        "howWeMet": "Met during an accelerator program",
+        "description": "Angel investor and advisor to early-stage tech startups, with a focus on fintech and SaaS.",
+        "tags": [
+            "Fintech",
+            "Growth",
+            "B2C",
+            "Scaling",
+            "Series A"
+        ],
+        "trust": 2,
+        "skill": 1
+    },
+    {
+        "name": "Amelia Bailey",
+        "howWeMet": "Introduced by an investor from Sequoia",
+        "description": "Founder of a fintech platform aiming to disrupt the traditional banking industry.",
+        "tags": [
+            "AI",
+            "Machine Learning",
+            "Healthcare",
+            "CTO",
+            "Startup"
+        ],
+        "trust": 2,
+        "skill": 5
+    },
+    {
+        "name": "Madison Hughes",
+        "howWeMet": "Met at the launch event of a new co-working space in NYC",
+        "description": "Partner at a VC firm with a focus on deep tech and enterprise solutions.",
+        "tags": [
+            "Business Development",
+            "Edtech",
+            "Growth",
+            "VC Funding",
+            "Startup"
+        ],
+        "trust": 2,
+        "skill": 3
+    },
+    {
+        "name": "Ellie Griffin",
+        "howWeMet": "Connected after discussing blockchain innovation",
+        "description": "CEO of a healthtech startup focused on AI-driven diagnostics for early disease detection.",
+        "tags": [
+            "Marketing",
+            "SaaS",
+            "Growth",
+            "Series A",
+            "Startup"
+        ],
+        "trust": 3,
+        "skill": 3
+    },
+    {
+        "name": "Avery Bell",
+        "howWeMet": "Met at the launch event of a new co-working space in NYC",
+        "description": "Founder of a fintech platform aiming to disrupt the traditional banking industry.",
+        "tags": [
+            "Healthtech",
+            "AI",
+            "Founder",
+            "Diagnostics",
+            "Startup"
+        ],
+        "trust": 1,
+        "skill": 3
+    },
+    {
+        "name": "Chris Evans",
+        "howWeMet": "Worked together during a pitch event for startups",
+        "description": "CTO of an AI-driven healthcare startup. Led her company through a successful seed round with participation from Andreessen Horowitz.",
+        "tags": [
+            "Angel Investor",
+            "Fintech",
+            "Advisor",
+            "SaaS",
+            "Seed Funding"
+        ],
+        "trust": 1,
+        "skill": 4
+    },
+    {
+        "name": "David Johnson",
+        "howWeMet": "Met at the launch event of a new co-working space in NYC",
+        "description": "CEO of a healthtech startup focused on AI-driven diagnostics for early disease detection.",
+        "tags": [
+            "COO",
+            "B2B",
+            "Marketplace",
+            "Series A",
+            "Growth"
+        ],
+        "trust": 1,
+        "skill": 1
+    },
+    {
+        "name": "Amelia Bailey",
+        "howWeMet": "Met at a startup event in San Francisco focused on AI advancements",
+        "description": "CEO of a Series A startup revolutionizing logistics and supply chain management.",
+        "tags": [
+            "Logistics",
+            "Supply Chain",
+            "Founder",
+            "Series A",
+            "Startup"
+        ],
+        "trust": 5,
+        "skill": 5
+    },
+    {
+        "name": "Liam Perry",
+        "howWeMet": "Introduced at a networking event for founders in fintech",
+        "description": "Angel investor and advisor to early-stage tech startups, with a focus on fintech and SaaS.",
+        "tags": [
+            "Fintech",
+            "Growth",
+            "B2C",
+            "Scaling",
+            "Series A"
+        ],
+        "trust": 3,
+        "skill": 2
+    },
+    {
+        "name": "William Moore",
+        "howWeMet": "Met at a startup event in San Francisco focused on AI advancements",
+        "description": "Founder of a fintech platform aiming to disrupt the traditional banking industry.",
+        "tags": [
+            "Business Development",
+            "Edtech",
+            "Growth",
+            "VC Funding",
+            "Startup"
+        ],
+        "trust": 4,
+        "skill": 5
+    },
+    {
+        "name": "Eli Reed",
+        "howWeMet": "Introduced by an investor from Sequoia",
+        "description": "Investor with a focus on healthtech, SaaS, and AI-driven solutions for the enterprise.",
+        "tags": [
+            "Fintech",
+            "Growth",
+            "B2C",
+            "Scaling",
+            "Series A"
+        ],
+        "trust": 5,
+        "skill": 3
+    },
+    {
+        "name": "Sophia Hernandez",
+        "howWeMet": "Connected at a Growth Hacking Meetup",
+        "description": "Angel investor and advisor to early-stage tech startups, with a focus on fintech and SaaS.",
+        "tags": [
+            "Healthtech",
+            "SaaS",
+            "AI",
+            "Investor",
+            "Enterprise"
+        ],
+        "trust": 4,
+        "skill": 4
+    },
+    {
+        "name": "Amelia Bailey",
+        "howWeMet": "Met at an industry networking event hosted by YC",
+        "description": "Chief Data Scientist at a rapidly growing AI startup, focusing on machine learning for healthcare.",
+        "tags": [
+            "VC",
+            "Deep Tech",
+            "Enterprise",
+            "Investor",
+            "Startup"
+        ],
+        "trust": 3,
+        "skill": 4
+    },
+    {
+        "name": "Riley Clark",
+        "howWeMet": "Met at a startup event in San Francisco focused on AI advancements",
+        "description": "Head of Growth at a Series A B2C fintech company, scaling the company\u2019s user base to 1M in under a year.",
+        "tags": [
+            "Fintech",
+            "Founder",
+            "Banking",
+            "Startup",
+            "B2B"
+        ],
+        "trust": 3,
+        "skill": 3
+    },
+    {
+        "name": "Lily Rogers",
+        "howWeMet": "Connected on LinkedIn after a viral thread on SaaS metrics",
+        "description": "Marketing lead at a Series A SaaS startup, responsible for driving 50% YoY growth.",
+        "tags": [
+            "Fintech",
+            "Founder",
+            "Banking",
+            "Startup",
+            "B2B"
+        ],
+        "trust": 5,
+        "skill": 3
+    },
+    {
+        "name": "Avery Bell",
+        "howWeMet": "Met at an industry networking event hosted by YC",
+        "description": "Investor with a focus on healthtech, SaaS, and AI-driven solutions for the enterprise.",
+        "tags": [
+            "Engineering",
+            "AI",
+            "Machine Learning",
+            "YC",
+            "Startup"
+        ],
+        "trust": 2,
+        "skill": 3
+    },
+    {
+        "name": "Caleb Clark",
+        "howWeMet": "Met at a startup event in San Francisco focused on AI advancements",
+        "description": "VP of Business Development at a fast-growing startup in the edtech space.",
+        "tags": [
+            "Business Development",
+            "Edtech",
+            "Growth",
+            "VC Funding",
+            "Startup"
+        ],
+        "trust": 2,
+        "skill": 2
+    },
+    {
+        "name": "Savannah Thompson",
+        "howWeMet": "Met at an industry networking event hosted by YC",
+        "description": "Angel investor and advisor to early-stage tech startups, with a focus on fintech and SaaS.",
+        "tags": [
+            "Big Tech",
+            "Google",
+            "Product Management",
+            "Cloud",
+            "Enterprise Software"
+        ],
+        "trust": 2,
+        "skill": 1
+    },
+    {
+        "name": "Bella Cooper",
+        "howWeMet": "Worked together on a joint project for a SaaS company",
+        "description": "Product Lead at a major tech company, focusing on enterprise collaboration tools.",
+        "tags": [
+            "Fintech",
+            "Growth",
+            "B2C",
+            "Scaling",
+            "Series A"
+        ],
+        "trust": 4,
+        "skill": 4
+    },
+    {
+        "name": "Dylan Mitchell",
+        "howWeMet": "Introduced by an investor from Sequoia",
+        "description": "Angel investor and advisor to early-stage tech startups, with a focus on fintech and SaaS.",
+        "tags": [
+            "Big Tech",
+            "Google",
+            "Product Management",
+            "Cloud",
+            "Enterprise Software"
+        ],
+        "trust": 1,
+        "skill": 5
+    },
+    {
+        "name": "Lillian Ward",
+        "howWeMet": "Spoke on the same panel about fintech innovations",
+        "description": "Product Lead at a major tech company, focusing on enterprise collaboration tools.",
+        "tags": [
+            "Business Development",
+            "Edtech",
+            "Growth",
+            "VC Funding",
+            "Startup"
+        ],
+        "trust": 4,
+        "skill": 5
+    },
+    {
+        "name": "Liam Perry",
+        "howWeMet": "Met at the launch event of a new co-working space in NYC",
+        "description": "Angel investor and advisor to early-stage tech startups, with a focus on fintech and SaaS.",
+        "tags": [
+            "Fintech",
+            "Founder",
+            "Banking",
+            "Startup",
+            "B2B"
+        ],
+        "trust": 5,
+        "skill": 1
+    },
+    {
+        "name": "Riley Parker",
+        "howWeMet": "Connected on LinkedIn after a viral thread on SaaS metrics",
+        "description": "COO of a B2B marketplace for small businesses, recently led the company through a successful Series A.",
+        "tags": [
+            "Fintech",
+            "Growth",
+            "B2C",
+            "Scaling",
+            "Series A"
+        ],
+        "trust": 2,
+        "skill": 2
+    },
+    {
+        "name": "Addison Moore",
+        "howWeMet": "Introduced by an investor from Sequoia",
+        "description": "Partner at a VC firm with a focus on deep tech and enterprise solutions.",
+        "tags": [
+            "AI",
+            "Machine Learning",
+            "Healthcare",
+            "CTO",
+            "Startup"
+        ],
+        "trust": 4,
+        "skill": 4
+    },
+    {
+        "name": "Dylan Mitchell",
+        "howWeMet": "Introduced by a former colleague in the VC industry",
+        "description": "VP of Business Development at a fast-growing startup in the edtech space.",
+        "tags": [
+            "Business Development",
+            "Edtech",
+            "Growth",
+            "VC Funding",
+            "Startup"
+        ],
+        "trust": 2,
+        "skill": 3
+    },
+    {
+        "name": "Michael Reed",
+        "howWeMet": "Connected after discussing blockchain innovation",
+        "description": "VP of Business Development at a fast-growing startup in the edtech space.",
+        "tags": [
+            "Big Tech",
+            "Google",
+            "Product Management",
+            "Cloud",
+            "Enterprise Software"
+        ],
+        "trust": 4,
+        "skill": 3
+    },
+    {
+        "name": "Ella Sanders",
+        "howWeMet": "Worked together at a previous startup",
+        "description": "VP of Business Development at a fast-growing startup in the edtech space.",
+        "tags": [
+            "Engineering",
+            "AI",
+            "Machine Learning",
+            "YC",
+            "Startup"
+        ],
+        "trust": 5,
+        "skill": 4
+    },
+    {
+        "name": "Riley Parker",
+        "howWeMet": "Introduced by a former colleague in the VC industry",
+        "description": "Founder of a fintech platform aiming to disrupt the traditional banking industry.",
+        "tags": [
+            "Angel Investor",
+            "Fintech",
+            "Advisor",
+            "SaaS",
+            "Seed Funding"
+        ],
+        "trust": 2,
+        "skill": 1
+    },
+    {
+        "name": "Grace Turner",
+        "howWeMet": "Worked together during a pitch event for startups",
+        "description": "Product Manager at Google, specializing in cloud computing and enterprise software solutions.",
+        "tags": [
+            "AI",
+            "Machine Learning",
+            "Healthcare",
+            "CTO",
+            "Startup"
+        ],
+        "trust": 3,
+        "skill": 2
+    },
+    {
+        "name": "Logan Hayes",
+        "howWeMet": "Met at the annual SaaStr conference",
+        "description": "Product Manager at Google, specializing in cloud computing and enterprise software solutions.",
+        "tags": [
+            "Fintech",
+            "Founder",
+            "Banking",
+            "Startup",
+            "B2B"
+        ],
+        "trust": 4,
+        "skill": 4
+    },
+    {
+        "name": "Grace Turner",
+        "howWeMet": "Worked together during my first startup accelerator",
+        "description": "Chief Revenue Officer at a fast-growing B2B SaaS startup, scaling the sales team across three continents.",
+        "tags": [
+            "VC",
+            "Fintech",
+            "Investor",
+            "Early-Stage",
+            "Tech"
+        ],
+        "trust": 2,
+        "skill": 4
+    },
+    {
+        "name": "Connor Perry",
+        "howWeMet": "Met during an accelerator program",
+        "description": "Chief Revenue Officer at a fast-growing B2B SaaS startup, scaling the sales team across three continents.",
+        "tags": [
+            "Logistics",
+            "Supply Chain",
+            "Founder",
+            "Series A",
+            "Startup"
+        ],
+        "trust": 2,
+        "skill": 1
+    },
+    {
+        "name": "Andrew Turner",
+        "howWeMet": "Connected after a Twitter Space on scaling startups",
+        "description": "Founder and CEO of a rapidly growing B2B SaaS platform. Recently closed a Series B round led by Sequoia.",
+        "tags": [
+            "AI",
+            "Healthcare",
+            "CTO",
+            "Tech",
+            "Seed Funding"
+        ],
+        "trust": 5,
+        "skill": 1
+    },
+    {
+        "name": "Victoria Price",
+        "howWeMet": "Connected on LinkedIn after a viral thread on SaaS metrics",
+        "description": "Investor with a focus on healthtech, SaaS, and AI-driven solutions for the enterprise.",
+        "tags": [
+            "SaaS",
+            "B2B",
+            "Founder",
+            "Startup",
+            "VC Funding"
+        ],
+        "trust": 2,
+        "skill": 4
+    },
+    {
+        "name": "Hazel Nelson",
+        "howWeMet": "Met at the launch event of a new co-working space in NYC",
+        "description": "Former VP of Product at a unicorn startup, now advising multiple seed-stage companies.",
+        "tags": [
+            "AI",
+            "Machine Learning",
+            "Healthcare",
+            "CTO",
+            "Startup"
+        ],
+        "trust": 1,
+        "skill": 4
+    },
+    {
+        "name": "Madison Hughes",
+        "howWeMet": "Worked together during a pitch event for startups",
+        "description": "Chief Data Scientist at a rapidly growing AI startup, focusing on machine learning for healthcare.",
+        "tags": [
+            "Business Development",
+            "Edtech",
+            "Growth",
+            "VC Funding",
+            "Startup"
+        ],
+        "trust": 2,
+        "skill": 5
+    },
+    {
+        "name": "Ava Brooks",
+        "howWeMet": "Introduced at a networking event for founders in fintech",
+        "description": "Product Manager at Google, specializing in cloud computing and enterprise software solutions.",
+        "tags": [
+            "Engineering",
+            "AI",
+            "Machine Learning",
+            "YC",
+            "Startup"
+        ],
+        "trust": 3,
+        "skill": 5
+    },
+    {
+        "name": "Leah Myers",
+        "howWeMet": "Met at a startup event in San Francisco focused on AI advancements",
+        "description": "Former VP of Product at a unicorn startup, now advising multiple seed-stage companies.",
+        "tags": [
+            "AI",
+            "Healthcare",
+            "CTO",
+            "Tech",
+            "Seed Funding"
+        ],
+        "trust": 1,
+        "skill": 1
+    },
+    {
+        "name": "Daniel Allen",
+        "howWeMet": "Introduced by a mutual friend during a VC panel at TechCrunch Disrupt",
+        "description": "Product Lead at a major tech company, focusing on enterprise collaboration tools.",
+        "tags": [
+            "Angel Investor",
+            "Fintech",
+            "Advisor",
+            "SaaS",
+            "Seed Funding"
+        ],
+        "trust": 1,
+        "skill": 3
+    },
+    {
+        "name": "Amelia Bailey",
+        "howWeMet": "Met at a startup event in San Francisco focused on AI advancements",
+        "description": "Partner at a top VC firm with a focus on fintech startups and early-stage investments.",
+        "tags": [
+            "Healthtech",
+            "AI",
+            "Founder",
+            "Diagnostics",
+            "Startup"
+        ],
+        "trust": 4,
+        "skill": 4
+    },
+    {
+        "name": "Penelope Gonzalez",
+        "howWeMet": "Met at the annual SaaStr conference",
+        "description": "Head of Growth at a Series A B2C fintech company, scaling the company\u2019s user base to 1M in under a year.",
+        "tags": [
+            "Revenue",
+            "Sales",
+            "B2B",
+            "SaaS",
+            "Growth"
+        ],
+        "trust": 1,
+        "skill": 3
+    },
+    {
+        "name": "Hunter Fisher",
+        "howWeMet": "Connected at a Growth Hacking Meetup",
+        "description": "Marketing lead at a Series A SaaS startup, responsible for driving 50% YoY growth.",
+        "tags": [
+            "Engineering",
+            "AI",
+            "Machine Learning",
+            "YC",
+            "Startup"
+        ],
+        "trust": 1,
+        "skill": 5
+    },
+    {
+        "name": "Hunter Fisher",
+        "howWeMet": "Introduced by an investor from Sequoia",
+        "description": "Founder of a fintech platform aiming to disrupt the traditional banking industry.",
+        "tags": [
+            "Product",
+            "Enterprise",
+            "Collaboration Tools",
+            "Tech",
+            "Growth"
+        ],
+        "trust": 5,
+        "skill": 4
+    },
+    {
+        "name": "Jackson Bailey",
+        "howWeMet": "Worked together during a pitch event for startups",
+        "description": "Head of Growth at a Series A B2C fintech company, scaling the company\u2019s user base to 1M in under a year.",
+        "tags": [
+            "COO",
+            "B2B",
+            "Marketplace",
+            "Series A",
+            "Growth"
+        ],
+        "trust": 2,
+        "skill": 2
+    },
+    {
+        "name": "Sophia Hernandez",
+        "howWeMet": "Connected at a Growth Hacking Meetup",
+        "description": "Chief Data Scientist at a rapidly growing AI startup, focusing on machine learning for healthcare.",
+        "tags": [
+            "AI",
+            "Healthcare",
+            "CTO",
+            "Tech",
+            "Seed Funding"
+        ],
+        "trust": 5,
+        "skill": 2
+    }
+]
